@@ -2,8 +2,8 @@
 Changelog for package eus_vive
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.10 (2023-04-02)
--------------------
+Forthcoming
+-----------
 * update readme
 * flake8
 * disable bash and mypy lint
